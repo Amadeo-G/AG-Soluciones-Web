@@ -4256,7 +4256,7 @@ a {
     margin-top: 0;
     margin-bottom: 0;
     color: rgba(229, 234, 255, .7);
-    font-family: montserrat, sans-serif
+    font-family: montserrat, sans-serif;
 }
 
 .dorik-text-rsibo3e8 {}
@@ -4393,8 +4393,6 @@ a {
     }
 }
 
-.dorik-heading-v90ccqin {}
-
 .dorik-heading-v90ccqin p {
     display: inline
 }
@@ -4422,7 +4420,6 @@ a {
     }
 }
 
-.dorik-heading-dstkvau1 {}
 
 .dorik-heading-dstkvau1 p {
     display: inline
@@ -4445,7 +4442,6 @@ a {
     text-align: center
 }
 
-.dorik-text-2rspewfv:hover {}
 
 @media screen and (max-width:1023px) {
     .dorik-text-2rspewfv {
@@ -4453,7 +4449,6 @@ a {
     }
 }
 
-.dorik-text-2rspewfv {}
 
 .dorik-iconText-stkqsw65 {
     font-size: 16px;
@@ -4923,7 +4918,6 @@ a {
     text-align: center
 }
 
-.dorik-heading-cwl41q6i {}
 
 .dorik-heading-cwl41q6i p {
     display: inline
@@ -4946,7 +4940,6 @@ a {
     box-shadow: 0 0 #000000
 }
 
-.dorik-heading-plj4moeg {}
 
 .dorik-heading-plj4moeg p {
     display: inline
@@ -4966,10 +4959,6 @@ a {
     margin-bottom: 40px;
     margin-top: 0
 }
-
-.dorik-text-g541yb6a:hover {}
-
-.dorik-text-g541yb6a {}
 
 .dorik-iconText-7a02kh3m {
     font-size: 16px;
@@ -5461,7 +5450,6 @@ a {
     margin-bottom: 10px
 }
 
-.dorik-heading-fbu7tlx0 {}
 
 .dorik-heading-fbu7tlx0 p {
     display: inline
@@ -5483,7 +5471,6 @@ a {
     font-family: roboto, sans-serif
 }
 
-.dorik-heading-npjnc66b {}
 
 .dorik-heading-npjnc66b p {
     display: inline
@@ -5504,7 +5491,6 @@ a {
     margin-top: 0
 }
 
-.dorik-text-rcdswnya {}
 
 .dorik-iconText-0qd1zcwm {
     font-size: 16px;
@@ -6141,7 +6127,6 @@ a {
     font-family: lato, sans-serif
 }
 
-.dorik-heading-vuqcg3xz {}
 
 .dorik-heading-vuqcg3xz p {
     display: inline
@@ -6168,8 +6153,6 @@ a {
     }
 }
 
-.dorik-heading-f2h6dsrw {}
-
 .dorik-heading-f2h6dsrw p {
     display: inline
 }
@@ -6189,7 +6172,6 @@ a {
     font-family: montserrat, sans-serif
 }
 
-.dorik-text-z02wl15k {}
 
 .dorik-button-imudui9y {
     padding-top: 15px;
@@ -6288,8 +6270,6 @@ a {
     }
 }
 
-.dorik-heading-biomugzo {}
-
 .dorik-heading-biomugzo p {
     display: inline
 }
@@ -6329,7 +6309,6 @@ a {
     }
 }
 
-.dorik-text-xxsr5x5i {}
 
 .dorik-row-b3oq7wxv {
     margin-top: 40px
@@ -6411,7 +6390,6 @@ a {
     border-radius: 15px 15px 15px 15px;
     border: 0 solid var(--color-10);
     background-color: var(--color-4);
-    background-type: color;
     overflow: hidden;
     transition: height 1s ease;
     margin-bottom: 20px
@@ -6501,8 +6479,6 @@ a {
     padding-bottom: 50px;
     background-color: var(--color-4)
 }
-
-.dorik-row-ts0nadvk {}
 
 .dorik-row-ts0nadvk {
     --nav-padding: 15px
@@ -6709,9 +6685,6 @@ a {
     flex-wrap: wrap
 }
 
-.dorik-socialIcon-2vcv8rmw li svg {}
-
-.dorik-socialIcon-2vcv8rmw li svg:hover {}
 
 .dorik-socialIcon-2vcv8rmw li svg {
     fill: #fcfdfd;
